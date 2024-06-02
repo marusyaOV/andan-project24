@@ -7,7 +7,7 @@
 - [Шаг 2. Составление гипотез](https://github.com/marusyaOV/andan-project24/tree/main?tab=readme-ov-file#шаг-2-составление-гипотез)
 - [Шаг 3. Анализ данных и визуализация](https://github.com/marusyaOV/andan-project24/tree/main#шаг-3-анализ-данных-и-визуализация)
 - [Шаг 4. Машинное обучение](https://github.com/marusyaOV/andan-project24/tree/main#шаг-4-машинное-обучение-идея)
-- [Шаг 5. Выводы](https://github.com/marusyaOV/andan-project24/edit/main/README.md#L9C113)
+- [Шаг 5. Выводы](https://github.com/marusyaOV/andan-project24/tree/main#шаг-5-выводы)
 
 ## Шаг 1: Выбор темы и многострадальный парсинг данных
 
